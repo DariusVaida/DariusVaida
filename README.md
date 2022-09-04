@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DariusVaida
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning java
 - 📫 How to reach me ...
 
 <!---
