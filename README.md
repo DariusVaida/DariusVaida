@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DariusVaida
-- 🌱 I’m currently learning java
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to survive in uni
 
 <!---
 DariusVaida/DariusVaida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
